@@ -10,3 +10,5 @@ Obidumbie titles:
 > title 1
 > title 2
 > title 3
+
+<img src="https://www.lust-auf-trommeln.de/images/KlangHang/HangKlang%202012.jpg"/>
